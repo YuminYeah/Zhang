@@ -7,3 +7,5 @@ Hi, it's Nicolas
 change readme file
 
 Changes made by JaeEY
+
+More changes
